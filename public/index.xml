@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>This is test hugo site for my theme</title>
+    <link>https://harukaashiuchi.me/</link>
+    <description>Recent content on This is test hugo site for my theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Tue, 19 May 2020 13:40:47 +0900</lastBuildDate>
+    
+	<atom:link href="https://harukaashiuchi.me/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sample</title>
+      <link>https://harukaashiuchi.me/posts/sample/</link>
+      <pubDate>Tue, 19 May 2020 13:40:47 +0900</pubDate>
+      
+      <guid>https://harukaashiuchi.me/posts/sample/</guid>
+      <description>Hello, Sample これはサンプル記事です。
+[:contents]
+ 見出し1 見出し2 見出し3 見出し4 見出し5 見出し6  段落 &amp;lt;p&amp;gt; 考えて見ると、私は今日まで作家として相当長い仕事の間に、自分の作品または生活について書かれるいろいろな批評などに対して、文章をもって答えたことは、ごく稀であった。
+自分としてその批評に賛成であった場合も不賛成であった場合も、多く黙っていた。
+それには、後でのべようと思う一二の理由があったのであるが、この頃、私は従来までの自分のそういう態度についていささか考え直すようになって来た。
+その間接の原因となるものは、一昨年の末から去年にかけてプロレタリア((ここに脚注を書きます))作家の間を荒した批評嫌悪症のさまざまの要因が、今はプロレタリア文学運動の歴史の鏡に照らされて相当はっきり私にも見えて来たことと、そこから汲みとったいろいろの教訓をもって今日自分のまわりを見まわすと、おのずから自分の態度についても考えが新にされる点があるからである。
+近頃の感想 宮本百合子
+ 文字装飾  強調 strong  お気に入りの絵を飾ります。 お気に入りの__絵__を飾ります。 お気に入りの絵を飾ります。   斜体 italic  同僚のスピーチが面白かった。 同僚の_スピーチ_が面白かった。 同僚のスピーチが面白かった。   強調斜体 em  昨日見た映画で話が盛り上がった。 ___昨日___見た映画で話が盛り上がった。 昨日見た映画で話が盛り上がった。   取り消し線 s  彼は石川県新潟県出身だ。 彼は石川県新潟県出身だ。     引用  考えて見ると、私は今日まで作家として相当長い仕事の間に、自分の作品または生活について書かれるいろいろな批評などに対して、文章をもって答えたことは、ごく稀であった。
+   自分としてその批評に賛成であった場合も不賛成であった場合も、多く黙っていた。 それには、後でのべようと思う一二の理由があったのであるが、この頃、私は従来までの自分のそういう態度についていささか考え直すようになって来た。
+   その間接の原因となるものは、一昨年の末から去年にかけてプロレタリア作家の間を荒した批評嫌悪症のさまざまの要因が、今はプロレタリア文学運動の歴史の鏡に照らされて相当はっきり私にも見えて来たことと、そこから汲みとったいろいろの教訓をもって今日自分のまわりを見まわすと、おのずから自分の態度についても考えが新にされる点があるからである。
+  近頃の感想 宮本百合子  水平線       リスト  箇条書きリスト   箇条書きリスト  二階層め・箇条書きリスト     箇条書きリスト    番号付きリスト 番号付きリスト 二階層め・番号付きリスト 1.</description>
+    </item>
+    
+  </channel>
+</rss>
