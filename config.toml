@@ -4,7 +4,7 @@ title = "This is test hugo site for my theme"
 author = "Haruka Ashiuchi"
 theme = "Academia"
 description = "is a designer based in Japan."
-copyright = "2020 Haruka Ashiuchi"
+copyright = "2020 Haruka Ashiuchi All rights reserved."
 
 [menu]
     [[menu.global_header]]

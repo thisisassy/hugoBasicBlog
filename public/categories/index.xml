@@ -6,6 +6,7 @@
     <description>Recent content in Categories on This is test hugo site for my theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
+    <copyright>2020 Haruka Ashiuchi All rights reserved.</copyright>
     
 	<atom:link href="https://harukaashiuchi.me/categories/index.xml" rel="self" type="application/rss+xml" />
     
