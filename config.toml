@@ -16,3 +16,6 @@ copyright = "2020 Haruka Ashiuchi All rights reserved."
         url = "/posts"
         weight = "2"
     [[menu.footer]]
+
+[params]
+    description = "is a designer based in Japan."
