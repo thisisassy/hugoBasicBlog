@@ -7,11 +7,11 @@ description = "is a designer based in Japan."
 copyright = "2020 Haruka Ashiuchi"
 
 [menu]
-    [[menu.header]]
+    [[menu.global_header]]
         name = "Home"
         url = "/"
         weight = "1"
-    [[menu.header]]
+    [[menu.global_header]]
         name = "Blog"
         url = "/posts"
         weight = "2"
