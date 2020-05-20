@@ -3,3 +3,16 @@ languageCode = "ja-JP"
 title = "This is test hugo site for my theme"
 author = "Haruka Ashiuchi"
 theme = "Academia"
+description = "is a designer based in Japan."
+copyright = "2020 Haruka Ashiuchi"
+
+[menu]
+    [[menu.header]]
+        name = "Home"
+        url = "/"
+        weight = "1"
+    [[menu.header]]
+        name = "Blog"
+        url = "/posts"
+        weight = "2"
+    [[menu.footer]]
