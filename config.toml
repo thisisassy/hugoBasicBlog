@@ -1,4 +1,5 @@
 baseURL = "https://harukaashiuchi.me/"
 languageCode = "ja-JP"
 title = "This is test hugo site for my theme"
+author = "Haruka Ashiuchi"
 theme = "Academia"
